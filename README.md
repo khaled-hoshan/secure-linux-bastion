@@ -2,8 +2,6 @@
 
 ## Overview
 
-This project was completed as part of the Elevvo Cloud & DevOps Engineering Internship.
-
 The goal was to configure a Linux server with hardened SSH access, deploy a Python web service, manage it with systemd, and verify its operation and security settings.
 
 ## Environment
